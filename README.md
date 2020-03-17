@@ -33,10 +33,10 @@ The scores are normalized across langauges with respective divisor. Further deta
 | Romanian | .281 (Other) |
 
 ### Germanic
-| Language  | EN      FR      DE      IT      ES      Other |
+| Language  | EN   |   FR   |   DE   |   IT   |   ES   |   Other |
 | ------------- | ------------- |
-| English  | .242 |
-| German  | .448 |
-| Danish | .272 (Other) |
-| Dutch | .243 (Other) |
-| Swedish | 0.177   0.133   0.14    0.154   0.109   0.287 |
+| English  | **0.242** |  0.167 |  0.1   |  0.147 |  0.117  | 0.227 |
+| German  | 0.09  |  0.094 |  **0.448** |  0.092 |  0.076 |  0.201 |
+| Danish | 0.182 |  0.136 |  0.158 |  0.144 |  0.108  | **0.272** |
+| Dutch | 0.149 |  0.13  |  0.233 |  0.136 |  0.109  | **0.243** |
+| Swedish | 0.177 |  0.133 |  0.14  |  0.154 |  0.109 |  **0.287** |
