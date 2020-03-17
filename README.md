@@ -19,7 +19,7 @@ The English version for example is available at https://www.europarl.europa.eu/f
 Execute ```python lang_classifier.py```.
 Should the dict.txt file not be found, execute ```python trigram_dictionary.py``` to re-create it.
 Given a document file name, the prediction goes through unique present trigrams while accumulating scores for each category.
-The scores are normalized across langauges with respective divisor. Further details can be found in the script for treating an out-of-vocabulary trigram and counting the score for *Other*.
+The scores are normalized across langauges with respective divisor. Further details can be found in the script for treating out-of-vocabulary trigrams and counting the score for *Other*.
 
 ## Dev. Results
 
