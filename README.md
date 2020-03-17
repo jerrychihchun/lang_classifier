@@ -24,10 +24,19 @@ The scores are normalized across langauges with respective divisor. Further deta
 ## Dev. Results
 
 ### Romance
-| Language  | Prediction score |
+| Language  | Score |
 | ------------- | ------------- |
 | French  | .285 |
 | Italian  | .276 |
 | Spanish | .283 |
 | Portuguese | .249 (Other) |
 | Romanian | .281 (Other) |
+
+### Germanic
+| Language  | EN      FR      DE      IT      ES      Other |
+| ------------- | ------------- |
+| English  | .242 |
+| German  | .448 |
+| Danish | .272 (Other) |
+| Dutch | .243 (Other) |
+| Swedish | 0.177   0.133   0.14    0.154   0.109   0.287 |
